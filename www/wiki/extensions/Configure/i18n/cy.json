@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jay99",
+			"Lloffiwr"
+		]
+	},
+	"configure": "Ffurfweddu'r wici",
+	"configure-desc": "Yn caniatáu i ddefnyddwyr awdurdodedig [[Special:Configure|ffurfweddu]]'r wici drwy ddefnyddio rhyngwyneb ar y we",
+	"configure-desc-group": "Grŵp",
+	"configure-desc-key": "Allwedd",
+	"configure-desc-ns": "Parth",
+	"configure-desc-val": "Gwerth",
+	"configure-edit-core": "MediaWiki",
+	"configure-edit-ext": "Estyniadau",
+	"configure-viewconfig-default-diff": "Gwahaniaethau o gymharu â'r gosodiadau rhagosodedig"
+}

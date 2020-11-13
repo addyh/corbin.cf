@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Irwangatot",
+			"Uchup19"
+		]
+	},
+	"configure-desc-ns": "Ngaranspasi",
+	"configure-js-remove": "Hapus",
+	"configure-section-namespaces": "Ngaranspasi",
+	"configure-section-skin": "Kulit",
+	"configure-section-category": "Kategori",
+	"configure-section-cache": "Sindangan",
+	"configure-section-pcache": "Sindangan parser",
+	"configure-section-messagecache": "Sindangan talatah",
+	"configure-section-block": "Peungpeuk",
+	"configure-section-upload": "Unjal",
+	"configure-section-images": "Gambar",
+	"configure-section-users": "Pamaké",
+	"configure-section-search": "Paluruh",
+	"configure-view": "Tempo"
+}

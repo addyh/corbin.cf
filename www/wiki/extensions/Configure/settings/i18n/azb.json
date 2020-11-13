@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ebrahimi-amir",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"configure-setting-wgActionPaths-key": "فعالیت",
+	"configure-setting-wgExtraLanguageNames-key": "دیلین کودو",
+	"configure-setting-wgExtraLanguageNames-value": "آد",
+	"configure-setting-wgSpecialPageGroups-key": "قروپ",
+	"configure-setting-wgDebugLogGroups-value": "فایل"
+}

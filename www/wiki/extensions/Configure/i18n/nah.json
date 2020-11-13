@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fluence",
+			"Teòtlalili",
+			"Taresi",
+			"Akapochtli"
+		]
+	},
+	"configure-desc-group": "Olōlli",
+	"configure-desc-ns": "Tocatlacauhtli",
+	"configure-edit-core": "MediaWiki",
+	"configure-js-remove": "Mixpohpoloz",
+	"configure-old-changes": "tlapatlaliztli",
+	"configure-section-paths": "Ohtli",
+	"configure-section-email": "E-mail",
+	"configure-section-namespaces": "Tocatl itlacauh",
+	"configure-section-category": "Neneuhcayomeh",
+	"configure-section-groups": "Tecentlaliliztli",
+	"configure-section-specialpages": "Noncuahquizcatlahcuilolamameh",
+	"configure-throttle-action-edit": "Xicpatla",
+	"configure-condition-operator-or": "Nozo"
+}

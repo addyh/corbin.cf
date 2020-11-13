@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lcawte",
+			"Reedy",
+			"Shirayuki"
+		]
+	},
+	"configure-setting-wgRestrictDisplayTitle": "Require use of <nowiki>{{DISPLAYTITLE}}</nowiki> to normalise to the same canonical page title",
+	"configure-setting-wgUseTwoButtonsSearchForm": "Sidebar's search form behaviour",
+	"configure-setting-wgMaxSigChars": "Maximum length of customised signature",
+	"configure-setting-wgLocalisationCacheConf": "Localisation cache configuration",
+	"configure-setting-wgLocalMessageCacheSerialized": "Use PHP serialised format for the local message cache",
+	"configure-setting-wgMimeDetectorCommand": "MIME detector programme",
+	"configure-setting-wgEnotifImpersonal": "Send a generic email instead of a personalised email for each user"
+}

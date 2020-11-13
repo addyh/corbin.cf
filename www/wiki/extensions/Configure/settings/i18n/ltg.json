@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dark Eagle"
+		]
+	},
+	"configure-setting-wgSpecialPageGroups-key": "Grupa",
+	"configure-setting-wgDebugLogGroups-value": "Fails",
+	"configure-setting-wgXhtmlNamespaces-key": "Vuordu pluots"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Triple-ADHD-AS",
+			"Игорь Бродский"
+		]
+	},
+	"configure-setting-wgSitename": "Saitan nimi",
+	"configure-setting-wgExtraLanguageNames-key": "Kelenkod",
+	"configure-setting-wgExtraLanguageNames-value": "Nimi",
+	"configure-setting-wgDebugLogGroups-value": "Fail"
+}

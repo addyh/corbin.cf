@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"S.Örvarr.S",
+			"Snævar",
+			"Spacebirdy",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"configure-desc-group": "Hópur",
+	"configure-desc-ns": "Nafnrými",
+	"configure-desc-val": "Gildi",
+	"configure-ext-settings": "Stillingar",
+	"configure-form-reason": "Ástæða:",
+	"configure-js-remove": "Eyða",
+	"configure-section-email": "Netfang",
+	"configure-section-namespaces": "Nafnrými",
+	"configure-section-search": "Leita",
+	"configure-select-wiki-submit": "Velja",
+	"configure-view": "Skoða",
+	"configure-throttle-action-edit": "Breyta",
+	"configure-throttle-action-move": "Færa",
+	"configure-throttle-action-emailuser": "Senda tölvupóst",
+	"configure-throttle-group": "Tegund"
+}

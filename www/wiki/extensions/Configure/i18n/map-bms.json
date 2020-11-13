@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"StefanusRA"
+		]
+	},
+	"configure": "Konfigurasi wiki kiye",
+	"configure-desc": "Ngijinaken pangganggo resmi nggo [[Special:Configure|ngatur]] wiki nganggo antarmuka sing basise web",
+	"configure-desc-group": "Grup",
+	"configure-desc-key": "Kunci",
+	"configure-desc-ns": "Bilik jeneng"
+}

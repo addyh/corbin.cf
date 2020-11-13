@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Mirzali"
+		]
+	},
+	"configure-setting-wgSitename": "Nameyê site",
+	"configure-setting-wgActionPaths-key": "Kerdış",
+	"configure-setting-wgActionPaths-value": "Şablonê GRE",
+	"configure-setting-wgSharedTables": "Tobloyê ke heserê bê",
+	"configure-setting-wgMediaHandlers-key": "Babetê NIME",
+	"configure-setting-wgLanguageCode": "Zıwan kodê sita",
+	"configure-setting-wgArticleRobotPolicies-key": "Sernamey pela",
+	"configure-setting-wgArticleRobotPolicies-value": "Politikay Botan",
+	"configure-setting-wgDefaultLanguageVariant": "Hesıbyayê vurnerê zıwani",
+	"configure-setting-wgDefaultRobotPolicy": "Hesıbyaye politikaya botan",
+	"configure-setting-wgExtraLanguageNames-key": "Kodê zıwani",
+	"configure-setting-wgExtraLanguageNames-value": "Name",
+	"configure-setting-wgSiteNotice": "Neticey Sita",
+	"configure-setting-wgLogRestrictions-key": "Babeta qeydi",
+	"configure-setting-wgSpecialPageGroups-key": "Grube",
+	"configure-setting-wgDebugLogGroups-value": "Dosya",
+	"configure-setting-wgSessionName": "Nameyê ronışten",
+	"configure-setting-wgSQLMode": "SQL mode",
+	"configure-setting-wgDefaultSkin": "Hesbêne asayışê nami",
+	"configure-setting-wgValidSkinNames-value": "Nami bımocne",
+	"configure-setting-wgExtraNamespaces-key": "Nameycaye ID",
+	"configure-setting-wgExtraNamespaces-value": "Nameyê heruna naman",
+	"configure-setting-wgNamespaceAliases-key": "Panaye name",
+	"configure-setting-wgNamespaceRobotPolicies-value": "Politikay Botan",
+	"configure-setting-wgNamespacesToBeSearchedDefault": "Hesıbyayê cı geyrayışê cayê naman",
+	"configure-setting-wgDefaultUserOptions": "Hesıbyayê tercihê karberi",
+	"configure-setting-wgExternalDiffEngine": "Ferq motoriyo teberdan",
+	"configure-setting-wgSecretKey": "Qesaya nımıti",
+	"configure-setting-wgSVGConverter": "SVG çerxkerdoği",
+	"configure-setting-wgSVGConverters": "SVG çerxkerdoği",
+	"configure-setting-wgSVGConverters-key": "Namey çerxkerdoği",
+	"configure-setting-wgXMLMimeTypes-key": "Babetê NIME",
+	"configure-setting-wgXhtmlDefaultNamespace": "Hesıbyayê cayê name dê XHTML",
+	"configure-setting-wgXhtmlNamespaces-key": "Cayê namey"
+}

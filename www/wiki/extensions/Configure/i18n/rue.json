@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gazeb"
+		]
+	},
+	"configure-desc-group": "Ґрупа",
+	"configure-desc-ns": "Простор назв",
+	"configure-desc-val": "Значіня",
+	"configure-edit-core": "MediaWiki",
+	"configure-ext-settings": "Параметры",
+	"configure-ext-use": "Хосновати",
+	"configure-form-reason": "Причіна:",
+	"configure-js-remove": "Вымазати",
+	"configure-js-biglist-hide": "[сховати детайлы]",
+	"configure-old-changes": "зміны",
+	"configure-section-pages": "Сторінкы",
+	"configure-section-db": "Датабаза",
+	"configure-section-email": "Електронічна пошта",
+	"configure-section-localization": "Локалізація",
+	"configure-section-cache": "Кеш",
+	"configure-section-access": "Приступ",
+	"configure-section-groups": "Ґрупы",
+	"configure-section-block": "Блокованя",
+	"configure-section-search": "Гляданя",
+	"configure-section-output": "Выступ",
+	"configure-select-wiki-view-all": "Вшыткы вікі",
+	"configure-select-wiki-view-specific": "Шпеціфічна вікі:",
+	"configure-throttle-group": "Тіп",
+	"configure-throttle-limit": "Ліміт",
+	"configure-throttle-none": "Без ліміту",
+	"configure-condition-operator": "Оператор:",
+	"configure-condition-operator-or": "OR",
+	"configure-condition-operator-and": "AND",
+	"configure-condition-operator-xor": "XOR",
+	"configure-condition-operator-not": "NOT",
+	"configure-condition-name": "Подмінка",
+	"configure-condition-requirement": "Пожадавка",
+	"configure-condition-name-1": "Мінімалне чісло едітовань",
+	"configure-condition-name-2": "Мінімалный вік:"
+}

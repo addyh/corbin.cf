@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nayvik",
+			"VASANTH S.N."
+		]
+	},
+	"configure-desc-group": "ಗುಂಪು",
+	"configure-desc-key": "ಕೀಲಿಕೈ",
+	"configure-desc-ns": "ನಾಮವರ್ಗ",
+	"configure-desc-val": "ಮೌಲ್ಯ",
+	"configure-edit-core": "ಮಾಧ್ಯಮವಿಕಿ",
+	"configure-edit-ext": "ವಿಸ್ತರಣೆಗಳು",
+	"configure-ext-settings": "ವ್ಯವಸ್ಥೆಗಳು",
+	"configure-ext-use-extension": "ಈ ವಿಸ್ತರಣೆಯನ್ನು ಉಪಯೋಗಿಸಿ",
+	"configure-ext-use": "ಉಪಯೋಗ",
+	"configure-form-reason": "ಕಾರಣ:",
+	"configure-btn-save": "ವ್ಯವಸ್ಥೆಗಳನ್ನು ಉಳಿಸಿ",
+	"configure-js-remove": "ಅಳಿಸು",
+	"configure-section-pages": "ಪುಟಗಳು",
+	"configure-section-email": "ಇ-ಅಂಚೆ",
+	"configure-section-timezone": "ಸಮಯ ವಲಯ",
+	"configure-section-category": "ವರ್ಗಗಳು",
+	"configure-section-search": "ಹುಡುಕು",
+	"configure-throttle-action-edit": "ಸಂಪಾದಿಸಿ",
+	"configure-condition-operator-and": "ಮತ್ತು"
+}

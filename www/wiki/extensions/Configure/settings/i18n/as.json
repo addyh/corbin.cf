@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bishnu Saikia"
+		]
+	},
+	"configure-setting-wgSitename": "ছাইটৰ নাম",
+	"configure-setting-wgActionPaths-key": "কাৰ্য",
+	"configure-setting-wgMediaHandlers-key": "MIME প্ৰকাৰ:",
+	"configure-setting-wgArticleRobotPolicies-key": "পৃষ্ঠাৰ শিৰোনামা",
+	"configure-setting-wgExtraLanguageNames-key": "ভাষা সংকেত",
+	"configure-setting-wgExtraLanguageNames-value": "নাম"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tifinaghes"
+		]
+	},
+	"configure-condition-operator-or": "ⵏⵖ",
+	"configure-condition-operator-and": "ⴷ",
+	"configure-condition-operator-xor": "ⵢⴰⵏ ⴷⵉⵙⵏ",
+	"configure-condition-operator-not": "ⵎⴰⵛⵉ"
+}

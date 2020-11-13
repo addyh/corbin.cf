@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Botuzhaleny-sodamo"
+		]
+	},
+	"configure-desc-group": "Куро",
+	"configure-desc-key": "Панжома",
+	"configure-desc-ns": "Лем потмо",
+	"configure-ext-use": "Тевс нолдамо",
+	"configure-form-reason": "Тувталось:",
+	"configure-btn-save": "Ванстомс аравтомкатнень",
+	"configure-js-remove": "Нардамс",
+	"configure-js-biglist-show": "[невтемс пизере тевнетнень]",
+	"configure-js-biglist-hide": "[кекшемс пизере тевнетнень]",
+	"configure-old": "Ташто версият",
+	"configure-old-changes": "лиякстомтомат",
+	"configure-section-general": "Вейсэнь аравтомкатне",
+	"configure-section-pages": "Лопатне",
+	"configure-section-paths": "Яннэтне",
+	"configure-section-email": "Е-сёрма",
+	"configure-section-localization": "Кудонькстомтомась",
+	"configure-section-timezone": "Шкань зона",
+	"configure-section-namespaces": "Лем потмот",
+	"configure-section-category": "Категорият",
+	"configure-section-cache": "Кекшема тарка",
+	"configure-section-groups": "Куротне",
+	"configure-section-cookie": "Кукить",
+	"configure-section-upload": "Ёвкстамо",
+	"configure-section-images": "Файлат",
+	"configure-section-recentchanges": "Чиень полавтнемат-лиякстомтомат",
+	"configure-section-search": "Вешнемс",
+	"configure-section-filter": "Сувтемень пачк нолдамо",
+	"configure-throttle-action-move": "Печтевтемс",
+	"configure-condition-operator-or": "Эли",
+	"configure-condition-operator-and": "Ды",
+	"configure-condition-operator-not": "Аволь"
+}

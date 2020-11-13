@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli"
+		]
+	},
+	"configure-setting-wgSitename": "Isem tas-sit",
+	"configure-setting-wgActionPaths-key": "Azzjoni",
+	"configure-setting-wgActionPaths-value": "Mudell tal-URL",
+	"configure-setting-wgDBerrorLog": "Fajl fejn iżżomm reġistru ta' kull żball tad-databażi",
+	"configure-setting-wgDBname": "Isem tad-databażi li se tuża",
+	"configure-setting-wgDBpassword": "Password għal $wgDBuser",
+	"configure-setting-wgDBadminpassword": "Password għal $wgDBadminuser",
+	"configure-setting-wgDBport": "Port għas-server tad-databażi",
+	"configure-setting-wgDBserver": "Isem tal-ospitu jew indirizz IP tas-server tad-databażi",
+	"configure-setting-wgDBtype": "Tip ta' databażi li se tuża",
+	"configure-setting-wgDBuser": "Isem tal-utent sabiex tidħol fid-databażi bih",
+	"configure-setting-wgDBadminuser": "Isem tal-utent tal-amministratur tad-databażi",
+	"configure-setting-wgLocalDatabases": "Databażi oħra li jistgħu jiġu amministrati minn dan is-server",
+	"configure-setting-wgSearchType": "Tip ta' tfittxija fid-databażi x'tuża. Issettjaha għal isem ta' klassi sabiex tieħu post il-mutur ta' tfittxija personalizzata",
+	"configure-setting-wgSharedDB": "Isem tad-databażi maqsuma",
+	"configure-setting-wgSharedPrefix": "Prefiss tad-databażi maqsuma",
+	"configure-setting-wgSharedTables": "Tabelli x'taqsam",
+	"configure-setting-wgAllowImageMoving": "Ippermetti t-tibdil tal-isem tal-fajl",
+	"configure-setting-wgGenerateThumbnailOnParse": "Iġġenera minjaturi meta jissejħu paġni li jinkluduhom",
+	"configure-setting-wgShowArchiveThumbnails": "Uri minjaturi għal stampi qodma fil-paġna ta' deskrizzjoni tal-istampa",
+	"configure-setting-wgIgnoreImageErrors": "Turix messaġġi ta' żbalji għall-istampi",
+	"configure-setting-wgIllegalFileChars": "Karattri illegali fl-ismijiet tal-fajls",
+	"configure-setting-wgImageLimits": "Limiti ta' daqs tal-istampi għall-paġni ta' deskrizzjoni",
+	"configure-setting-wgArticleRobotPolicies-key": "Titlu tal-paġna",
+	"configure-setting-wgArticleRobotPolicies-value": "Politika tar-robots",
+	"configure-setting-wgCapitalLinks": "L-ewwel ittra tat-titlu f'kull paġna hija kapitali",
+	"configure-setting-wgExtraLanguageNames-key": "Kodiċi tal-lingwa",
+	"configure-setting-wgExtraLanguageNames-value": "Isem",
+	"configure-setting-wgMaxArticleSize": "Daqs massimu tal-paġna (kB)",
+	"configure-setting-wgNoFollowLinks": "Żid rel=\"nofollow\" lill-ħoloq",
+	"configure-setting-wgSpecialPageGroups-key": "Grupp",
+	"configure-setting-wgAutopromote-value": "Kundizzjonijiet:",
+	"configure-setting-wgAccountCreationThrottle": "Numru ta' kontijiet kull indirizz IP jista' joħloq",
+	"configure-setting-wgNewPasswordExpiry": "Il-ħin, f'sekondi, għall-iskadenza ta' password temporanja mibgħuta permezz tal-ittre",
+	"configure-setting-wgDebugLogGroups-value": "Fajl"
+}

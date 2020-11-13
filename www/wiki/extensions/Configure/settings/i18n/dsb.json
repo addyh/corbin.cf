@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"configure-setting-desc": "Wopisanja za konfiguraciske nastajenja MediaWiki",
+	"configure-setting-wgActionPaths-key": "Akcija"
+}

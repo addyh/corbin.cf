@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"configure-setting-wgActionPaths-key": "Handling",
+	"configure-setting-wgActionPaths-value": "URL fyrimynd",
+	"configure-setting-wgDBname": "Navn á dátagrunninum ið skal nýtast",
+	"configure-setting-wgDBpassword": "Loyniorð til $wgDBuser",
+	"configure-setting-wgDBadminpassword": "Loyniorð til $wgDBadminuser"
+}

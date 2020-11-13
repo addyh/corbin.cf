@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aushulz",
+			"Markos90",
+			"Melos",
+			"Sarvaturi"
+		]
+	},
+	"configure-desc-group": "Gruppu",
+	"configure-desc-val": "Valori",
+	"configure-edit-ext": "Estensioni",
+	"configure-ext-doc": "Talìa la documentazioni in linea",
+	"configure-ext-use-extension": "Usa st'estensioni",
+	"configure-ext-use": "Usa",
+	"configure-form-reason": "Mutivu:",
+	"configure-customised": "''St'impostazioni fu pirsonalizzata''",
+	"configure-arrayinput-oneperline": "''(unu pi riga)''",
+	"configure-btn-save": "Sarva l'impostazioni",
+	"configure-js-add": "Iunci nu novu valori",
+	"configure-js-remove": "Elìmina",
+	"configure-js-remove-row": "Elìmina stu valori",
+	"configure-js-get-image-url": "Cunverti lu nomu du file n URL",
+	"configure-js-biglist-show": "[ammustra dittagghi]",
+	"configure-js-biglist-hide": "[Ammuccia dittagghi]",
+	"configure-old-changes": "canciamenti",
+	"configure-section-pages": "Pàggini",
+	"configure-section-email": "Nnirizzu email",
+	"configure-section-groups": "Gruppa",
+	"configure-section-block": "Blocca",
+	"configure-section-cookie": "Cookie",
+	"configure-section-antivirus": "Antivirus",
+	"configure-section-specialpages": "Pàggini spiciali",
+	"configure-section-users": "Utenti",
+	"configure-section-search": "Arricerca",
+	"configure-section-external-tools": "Strumenta esterna",
+	"configure-view": "Talìa",
+	"configure-throttle-action-edit": "Cancia"
+}

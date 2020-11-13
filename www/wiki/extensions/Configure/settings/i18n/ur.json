@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"configure-setting-wgSitename": "ویب سائٹ کے نام",
+	"configure-setting-wgActionPaths-key": "کارروائی",
+	"configure-setting-wgExtraLanguageNames-key": "زبان کے کوڈ",
+	"configure-setting-wgSpecialPageGroups": "خصوصی صفحہ گروپس",
+	"configure-setting-wgSpecialPageGroups-key": "گروپ",
+	"configure-setting-wgDebugLogGroups-value": "فائل"
+}

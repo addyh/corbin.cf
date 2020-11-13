@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Juanpabl"
+		]
+	},
+	"configure-setting-wgActionPaths-key": "Acción",
+	"configure-setting-wgUseDynamicDates": "Reformateyar as calendatas vinculatas",
+	"configure-setting-wgDebugLogGroups-value": "Fichero",
+	"configure-setting-wgXhtmlNamespaces-key": "Espacio de nombres"
+}

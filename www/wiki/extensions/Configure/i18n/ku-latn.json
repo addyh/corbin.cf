@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"George Animal"
+		]
+	},
+	"configure-desc-group": "Kom",
+	"configure-edit-core": "MediaWiki",
+	"configure-ext-use": "Bi kar bîne",
+	"configure-form-reason": "Sedem:",
+	"configure-btn-save": "Eyaran tomar bike",
+	"configure-js-remove": "Jê bibe",
+	"configure-js-biglist-show": "[detayan nîşan bide]",
+	"configure-js-biglist-hide": "[detayan veşêre]",
+	"configure-js-search-legend": "Li eyaran bigere",
+	"configure-old": "Guhertoyên kevn",
+	"configure-old-changes": "guherandin",
+	"configure-section-pages": "Rûpel",
+	"configure-section-email": "E-name",
+	"configure-section-category": "Kategorî",
+	"configure-section-groups": "Kom",
+	"configure-section-test": "Ceribandin",
+	"configure-section-upload": "Bar bike",
+	"configure-section-images": "Dosyeyan",
+	"configure-section-specialpages": "Rûpelên taybet",
+	"configure-section-recentchanges": "Guherandinên dawî",
+	"configure-section-users": "Bikarhêner",
+	"configure-section-output": "Encam",
+	"configure-select-wiki-view-all": "Hemû wîkî",
+	"configure-select-wiki-submit": "Hilbijêre",
+	"configure-throttle-action-edit": "Biguherîne",
+	"configure-throttle-action-emailuser": "Peyamekê bişîne",
+	"configure-throttle-group": "Cure",
+	"configure-condition-operator-and": "Û"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lloffiwr",
+			"Stephenwanjau"
+		]
+	},
+	"configure-setting-wgActionPaths-key": "Tendo",
+	"configure-setting-wgDBpassword": "Nywila ya $wgDBuser",
+	"configure-setting-wgDBadminpassword": "Nywial ya $wgDBadminuser",
+	"configure-setting-wgDBtype": "Aina ya hifadhidata itakayotumiwa",
+	"configure-setting-wgAllowImageMoving": "Wezesha kubadili jina ya faili",
+	"configure-setting-wgArticleRobotPolicies-key": "Mada ya ukurasa",
+	"configure-setting-wgExtraLanguageNames-value": "Jina",
+	"configure-setting-wgVersion": "Toleo la MediaWiki",
+	"configure-setting-wgSpecialPageGroups-key": "Kundi",
+	"configure-setting-wgAutopromote-value": "Masharti",
+	"configure-setting-wgDebugLogGroups-value": "Faili",
+	"configure-setting-wgUseSquid": "Wezesha Squid",
+	"configure-setting-wgXhtmlNamespaces-key": "Eneo la wiki"
+}

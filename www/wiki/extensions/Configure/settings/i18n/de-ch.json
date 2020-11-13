@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geitost"
+		]
+	},
+	"configure-setting-wgNoReplyAddress": "Dummy-Adresse, die beim Abschicken des E-Mails akzeptiert werden sollte",
+	"configure-setting-wgEnotifImpersonal": "Ein allgemeines E-Mail anstelle eines personalisierten E-Mails an jeden Benutzer schicken",
+	"configure-setting-wgEnotifMaxRecips": "Maximale Anzahl an Benutzern, die auf einmal angeschrieben werden, wenn ein unpersönliches E-Mail versandt wird",
+	"configure-setting-wgEnotifMinorEdits": "E-Mail-Benachrichtigungen auch für «kleine Änderungen» (Benutzereinstellung wird angezeigt und Benutzer muss die Option ausdrücklich aktivieren)",
+	"configure-setting-wgEnotifUseRealName": "Realen Namen anstelle des Benutzernamens im E-Mail-Feld «von» verwenden",
+	"configure-setting-wgUsersNotifiedOnAllChanges": "Benutzernamen, die ein Benachrichtigungs-E-Mail für jede Änderung auf einem Wiki erhalten"
+}

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ansumang",
+			"Siddhartha Ghai"
+		]
+	},
+	"configure-setting-wgSitename": "साइट नाम",
+	"configure-setting-wgActionPaths-key": "क्रिया",
+	"configure-setting-wgArticleRobotPolicies-key": "पृष्ठ शीर्षक",
+	"configure-setting-wgExtraLanguageNames-key": "भाषा कोड",
+	"configure-setting-wgExtraLanguageNames-value": "नाम",
+	"configure-setting-wgValidSkinNames-key": "आंतरिक नाम",
+	"configure-setting-wgValidSkinNames-value": "प्रदर्शन नाम",
+	"configure-setting-wgExtraNamespaces-key": "नामस्थान आइ॰डी",
+	"configure-setting-wgExtraNamespaces-value": "नामस्थान नाम",
+	"configure-setting-wgSecretKey": "गुप्त कुंजी",
+	"configure-setting-wgXhtmlNamespaces-key": "नामस्थान",
+	"configure-setting-wgLocaltimezone": "स्थानीय समयमण्डल"
+}

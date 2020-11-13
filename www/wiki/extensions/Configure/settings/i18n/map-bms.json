@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"StefanusRA"
+		]
+	},
+	"configure-setting-wgArticleRobotPolicies-key": "Judul kaca",
+	"configure-setting-wgExtraLanguageNames-key": "Kode basa",
+	"configure-setting-wgExtraLanguageNames-value": "Jeneng",
+	"configure-setting-wgVersion": "Versi MediaWiki",
+	"configure-setting-wgValidSkinNames-value": "Jeneng tampilan"
+}

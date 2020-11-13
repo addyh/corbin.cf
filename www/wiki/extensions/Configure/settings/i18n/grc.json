@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crazymadlover",
+			"Omnipaedista"
+		]
+	},
+	"configure-setting-wgSitename": "Ὄνομα ἱστοτόπου",
+	"configure-setting-wgActionPaths-key": "Δρᾶσις",
+	"configure-setting-wgActionPaths-value": "Πρότυπον τοῦ URL",
+	"configure-setting-wgMediaHandlers-key": "Τύπος MIME",
+	"configure-setting-wgExtraLanguageNames-key": "Κῶδιξ γλώττης",
+	"configure-setting-wgExtraLanguageNames-value": "Ὄνομα",
+	"configure-setting-wgVersion": "Ἔκδοσις MediaWiki",
+	"configure-setting-wgSpecialPageGroups-key": "Ὁμάς",
+	"configure-setting-wgEnableAPI": "Καθιστάναι δυνατὴν τὴν API",
+	"configure-setting-wgDebugLogGroups-value": "Ἀρχεῖον",
+	"configure-setting-wgSessionName": "Ὄνομα συνεδρίας",
+	"configure-setting-wgNamespaceAliases-key": "Ψευδώνυμον",
+	"configure-setting-wgSecretKey": "Κρυφὴ κλείς",
+	"configure-setting-wgDBmysql5": "Χρῆσθαι κωδικοποιήσει UTF-8",
+	"configure-setting-wgXhtmlNamespaces-key": "Ὀνοματεῖον"
+}

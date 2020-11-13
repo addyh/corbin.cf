@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+
+  php:
+    build: ./php/
+    restart: always
+    volumes:
+      - ./www/:/var/www/html/
+    ports:
+      - 80:80
+      - 443:443
+
+  db:
+    image: mariadb
+    command: --innodb-flush-method=fsync --innodb-use-native-aio=0
+    restart: always
+    environment:
+      MYSQL_DATABASE: wiki
+      MYSQL_USER: wiki
+      MYSQL_PASSWORD: YqKOnYOXGrHaUqFU
+      MYSQL_ROOT_PASSWORD: YqKOnYOXGrHaUqFU
+    volumes:
+      - ./mysql-data/:/var/lib/mysql/
+      - ./mysql/:/docker-entrypoint-initdb.d/

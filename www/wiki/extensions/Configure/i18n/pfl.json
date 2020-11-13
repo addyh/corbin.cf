@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Manuae",
+			"Xqt"
+		]
+	},
+	"configure-js-remove": "Lesche",
+	"configure-section-images": "Dadaije",
+	"configure-throttle-action-edit": "Bearwaide",
+	"configure-throttle-action-move": "Verschiewe",
+	"configure-condition-operator-or": "Oda",
+	"configure-condition-operator-and": "Un",
+	"configure-condition-operator-xor": "Endweda Oda",
+	"configure-condition-operator-not": "Ned"
+}

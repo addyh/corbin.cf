@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"configure-desc": "Allow authorised users to [[Special:Configure|configure]] the wiki via a web-based interface",
+	"configure-customised": "''This setting has been customised''",
+	"configure-section-localization": "Localisation",
+	"configure-section-site": "Site customisation"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cekli829",
+			"Vago"
+		]
+	},
+	"configure-setting-wgActionPaths-key": "Fəaliyyət",
+	"configure-setting-wgExtraLanguageNames-value": "Ad",
+	"configure-setting-wgMaxArticleSize": "Səhifənin maksimum ölçüsü (kB)",
+	"configure-setting-wgNoFollowLinks": "Keçidlərə rel=\"nofollow\" əlavə etmək",
+	"configure-setting-wgSpecialPageGroups-key": "Qrup",
+	"configure-setting-wgAutopromote-value": "Şərtlər",
+	"configure-setting-wgDebugLogGroups-value": "Fayl",
+	"configure-setting-wgGroupPermissions-value": "Təyin olunmuş qaydalar",
+	"configure-setting-wgAddGroups": "Əlavə oluna bilinən qruplar",
+	"configure-setting-wgAddGroups-value": "Əlavə oluna bilinən qruplar",
+	"configure-setting-wgRemoveGroups": "Silinə bilinən qruplar",
+	"configure-setting-wgRemoveGroups-value": "Silinə bilinən qruplar",
+	"configure-setting-wgValidSkinNames-key": "Daxili adı",
+	"configure-setting-wgExtraNamespaces-key": "ID adlar fəzası",
+	"configure-setting-wgExtraNamespaces-value": "Adlar fəzasının adı"
+}

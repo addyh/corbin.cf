@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Calak"
+		]
+	},
+	"configure-setting-wgArticleRobotPolicies-key": "سەردێڕی پەڕە",
+	"configure-setting-wgExtraLanguageNames-key": "کۆدی زمان",
+	"configure-setting-wgExtraLanguageNames-value": "ناو",
+	"configure-setting-wgLogRestrictions-key": "جۆری لۆگ",
+	"configure-setting-wgSpecialPageGroups-key": "گرووپ",
+	"configure-setting-wgAutopromote-value": "مەرجەکان",
+	"configure-setting-wgNamespaceAliases-key": "نازناو"
+}

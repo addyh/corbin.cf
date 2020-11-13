@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Botuzhaleny-sodamo"
+		]
+	},
+	"configure-setting-wgExtraLanguageNames-key": "Келень код",
+	"configure-setting-wgSpecialPageGroups": "Башка лопань курот",
+	"configure-setting-wgSpecialPageGroups-key": "Куро",
+	"configure-setting-wgDebugLogGroups-value": "Файла",
+	"configure-setting-wgXhtmlNamespaces-key": "Лем потмо"
+}

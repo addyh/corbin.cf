@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chinneeb",
+			"MongolWiki"
+		]
+	},
+	"configure-desc-ns": "Нэрний зай",
+	"configure-section-timezone": "Цагийн бүс",
+	"configure-section-namespaces": "Нэрний зайнууд",
+	"configure-section-category": "Анги",
+	"configure-section-specialpages": "Тусгай хуудсууд",
+	"configure-section-search": "Хайх",
+	"configure-throttle-action-rollback": "Буцаах"
+}

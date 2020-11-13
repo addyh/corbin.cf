@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"පසිඳු කාවින්ද",
+			"Alp Er Tunqa"
+		]
+	},
+	"configure-desc-group": "گروه",
+	"configure-desc-ns": "آدفضاسی",
+	"configure-ext-settings": "تنظیملر",
+	"configure-ext-use": "ایستفاده",
+	"configure-form-reason": "ندن:",
+	"configure-section-namespaces": "آدلار فضاسی:",
+	"configure-section-images": "فایل‌لار",
+	"configure-section-users": "ایستفاده‌چیلر",
+	"configure-section-search": "آختار",
+	"configure-section-output": "چیختی",
+	"configure-view": "باخ",
+	"configure-throttle-action-edit": "دَییشدیر",
+	"configure-throttle-action-move": "آدینی دَییشدیر",
+	"configure-throttle-group": "نوع",
+	"configure-throttle-limit": "سینیر",
+	"configure-condition-operator-or": "یوخسا"
+}

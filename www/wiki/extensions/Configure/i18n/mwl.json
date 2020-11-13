@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"MokaAkashiyaPT"
+		]
+	},
+	"configure-ext-doc": "Ber la decumentaçon an lhinha",
+	"configure-js-search-prompt": "Cunsulta:",
+	"configure-section-email": "Correio eiletrónico",
+	"configure-section-timezone": "Fuso hourário",
+	"configure-section-specialpages": "Páiginas speciales",
+	"configure-section-search": "Percurar",
+	"configure-throttle-action-move": "Arrastrar"
+}

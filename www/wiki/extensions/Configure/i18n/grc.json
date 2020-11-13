@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crazymadlover",
+			"Omnipaedista"
+		]
+	},
+	"configure-desc-ns": "Ὀνοματεῖον",
+	"configure-desc-val": "Τιμή",
+	"configure-js-remove": "Διαγράφειν",
+	"configure-section-email": "Ἠλεκτρονικαὶ ἐπιστολαί",
+	"configure-section-timezone": "Χρονικὴ ζώνη",
+	"configure-section-namespaces": "Ὀνοματεῖα",
+	"configure-section-category": "Κατηγορίαι",
+	"configure-section-specialpages": "Εἰδικαὶ δέλτοι",
+	"configure-section-users": "Χρώμενοι",
+	"configure-section-search": "Ζητεῖν",
+	"configure-section-misc": "Λοιπά",
+	"configure-section-mw-extensions": "Ἐπεκτάσεις MediaWiki",
+	"configure-select-wiki": "Βικι-επιλογή",
+	"configure-select-wiki-submit": "Ἐπιλέγειν",
+	"configure-view": "Ὁρᾶν",
+	"configure-throttle-action-edit": "Μεταγράφειν",
+	"configure-throttle-action-move": "Κινεῖν",
+	"configure-throttle-action-rollback": "Ἀναστροφή",
+	"configure-throttle-group": "Τύπος",
+	"configure-throttle-limit": "Ὅριον",
+	"configure-condition-operator-or": "Ἢ",
+	"configure-condition-operator-and": "Καὶ",
+	"configure-condition-name": "Κατάστασις"
+}

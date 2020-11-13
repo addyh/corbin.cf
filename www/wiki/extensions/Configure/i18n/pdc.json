@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"configure-desc-group": "Druppe",
+	"configure-desc-ns": "Blatznaame",
+	"configure-edit-core": "MediaWiki",
+	"configure-ext-use": "Yuuse",
+	"configure-form-reason": "Grund:",
+	"configure-js-remove": "Verwische",
+	"configure-old-changes": "Enneringe",
+	"configure-old-summary": "$1 vun $2 $4 $3",
+	"configure-section-pages": "Bledder",
+	"configure-section-paths": "Paade",
+	"configure-section-email": "E-Poschd",
+	"configure-section-namespaces": "Blatznaame",
+	"configure-section-category": "Abdeelinge",
+	"configure-section-groups": "Druppe",
+	"configure-section-upload": "Ufflaade",
+	"configure-section-images": "Feils",
+	"configure-section-specialpages": "Besunnere Bledder",
+	"configure-section-users": "Yuuser",
+	"configure-section-search": "Uffgucke",
+	"configure-section-copyright": "Copyright",
+	"configure-viewconfig-line": "$1 $6, $7 Uhr vun $3 $5: $4",
+	"configure-throttle-action-edit": "Ennere",
+	"configure-throttle-action-move": "Ziehe",
+	"configure-condition-operator-or": "Odder",
+	"configure-condition-operator-and": "Unn",
+	"configure-condition-operator-not": "Net"
+}

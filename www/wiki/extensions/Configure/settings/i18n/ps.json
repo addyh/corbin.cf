@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"configure-setting-wgSitename": "د وېبڅي نوم",
+	"configure-setting-wgActionPaths-key": "چاره",
+	"configure-setting-wgLanguageCode": "د وېبځي د ژبې کوډ",
+	"configure-setting-wgArticleRobotPolicies-key": "مخ سرليک",
+	"configure-setting-wgArticleRobotPolicies-value": "د روباټ تگلاره",
+	"configure-setting-wgExtraLanguageNames-key": "د ژبې کوډ",
+	"configure-setting-wgExtraLanguageNames-value": "نوم",
+	"configure-setting-wgSpecialPageGroups-key": "ډله",
+	"configure-setting-wgEnableEmail": "برېښليک آسانتياوې چارنول",
+	"configure-setting-wgDebugLogGroups-value": "دوتنه",
+	"configure-setting-wgValidSkinNames-value": "ښکارېدونکی نوم",
+	"configure-setting-wgExtraNamespaces-key": "نومتشيال پېژند",
+	"configure-setting-wgExtraNamespaces-value": "نومتشيال نوم",
+	"configure-setting-wgAllowPrefChange-key": "کارن غوره توبونه",
+	"configure-setting-wgXhtmlNamespaces-key": "نوم-تشيال",
+	"configure-setting-wgUseAjax": "AJAX چارنول"
+}

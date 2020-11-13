@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gazeb"
+		]
+	},
+	"configure-setting-wgExtraLanguageNames-key": "Код языка",
+	"configure-setting-wgExtraLanguageNames-value": "Назва",
+	"configure-setting-wgDebugLogGroups-value": "Файл"
+}

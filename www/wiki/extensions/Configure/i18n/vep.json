@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Игорь Бродский"
+		]
+	},
+	"configure-js-remove": "Čuta poiš",
+	"configure-js-remove-row": "Čuta poiš nece kirjutez",
+	"configure-js-get-image-url": "Tehta failannimespäi URL-adres",
+	"configure-js-biglist-hidden": "Järgendusiden detalid oma peittud",
+	"configure-js-biglist-show": "[ozutada detalid]",
+	"configure-js-biglist-hide": "[peitta detalid]",
+	"configure-js-summary-none": "Ei ole järgendusid",
+	"configure-js-search-legend": "Järgendusiden ecmine",
+	"configure-js-search-prompt": "Küzund:",
+	"configure-old": "Vanhad versijad",
+	"configure-old-changes": "toižetused",
+	"configure-section-pages": "Lehtpoled",
+	"configure-section-email": "E-počt",
+	"configure-section-timezone": "Aigzon",
+	"configure-section-groups": "Gruppad",
+	"configure-section-images": "Failad",
+	"configure-section-antivirus": "Antivirus",
+	"configure-section-parser": "Parser",
+	"configure-section-users": "Kävutajad",
+	"configure-section-filter": "Fil'truind",
+	"configure-section-external-tools": "Irdazeged",
+	"configure-select-wiki-view-all": "Kaik wikid",
+	"configure-select-wiki-submit": "Valiče",
+	"configure-view": "Ozutada",
+	"configure-view-all-versions": "Versijoiden täuz' nimikirjutez",
+	"configure-throttle-action-edit": "Redaktiruida",
+	"configure-throttle-group": "Tip",
+	"configure-condition-operator": "Operator:",
+	"configure-condition-operator-or": "Vai",
+	"configure-condition-operator-and": "Da"
+}

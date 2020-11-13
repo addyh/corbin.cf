@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Snakesteuben",
+			"Robin0van0der0vliet"
+		]
+	},
+	"configure-desc-ns": "Nammeromten",
+	"configure-desc-val": "Wearde",
+	"configure-ext-settings": "Ynstellingen",
+	"configure-form-reason": "Reden:",
+	"configure-js-remove": "Fuortsmite",
+	"configure-section-email": "E-mail",
+	"configure-section-html": "HTML",
+	"configure-section-namespaces": "Nammeromten",
+	"configure-section-category": "Kategoryen",
+	"configure-section-cookie": "Cookies",
+	"configure-section-mime": "MIME-typen",
+	"configure-section-images": "Triemmen",
+	"configure-section-users": "Brûkers",
+	"configure-section-search": "Sykje",
+	"configure-throttle-action-edit": "Bewurkje"
+}

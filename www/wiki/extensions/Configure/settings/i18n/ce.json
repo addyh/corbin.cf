@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sasan700",
+			"Умар"
+		]
+	},
+	"configure-setting-wgActionPaths-key": "Дийраш",
+	"configure-setting-wgActionPaths-value": "Кепан URL",
+	"configure-setting-wgMediaHandlers-key": "Тайп MIME",
+	"configure-setting-wgGalleryOptions": "Теган <nowiki><gallery></nowiki> Iад йитарца параметраш",
+	"configure-setting-wgArticleRobotPolicies-key": "АгӀона цӀе",
+	"configure-setting-wgExtraLanguageNames-value": "ЦӀе",
+	"configure-setting-wgSiteNotice": "Сайтан хаамаш",
+	"configure-setting-wgGroupPermissions-value": "Бакъо ялар",
+	"configure-setting-wgAddGroups": "ТӀетоха йиш йолу тобанаш",
+	"configure-setting-wgGroupsAddToSelf": "Хьайн тӀетоха йиш йолу тобанаш",
+	"configure-setting-wgMimeInfoFile": "Файлан хаамашан MIME-тайп"
+}

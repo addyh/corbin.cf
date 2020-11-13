@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Basharh"
+		]
+	},
+	"configure-setting-wgMediaHandlers-key": "MIME ܐܕܫܐ",
+	"configure-setting-wgArticleRobotPolicies-key": "ܟܘܢܝܐ ܕܦܐܬܐ",
+	"configure-setting-wgExtraLanguageNames-value": "ܫܡܐ",
+	"configure-setting-wgSpecialPageGroups-key": "ܟܢܘܫܬܐ",
+	"configure-setting-wgDebugLogGroups-value": "ܠܦܦܐ",
+	"configure-setting-wgSessionName": "ܫܡܐ ܕܡܘܬܒܐ",
+	"configure-setting-wgValidSkinNames-key": "ܫܡܐ ܓܘܝܐ",
+	"configure-setting-wgValidSkinNames-value": "ܚܘܝ ܫܡܐ",
+	"configure-setting-wgExtraNamespaces-key": "ܗܝܝܘܬܐ ܕܚܩܠܐ",
+	"configure-setting-wgExtraNamespaces-value": "ܫܡܐ ܕܚܩܠܐ",
+	"configure-setting-wgMetaNamespace": "ܫܡܐ ܕܚܩܠܐ ܕܬܪܡܝܬܐ",
+	"configure-setting-wgMetaNamespaceTalk": "ܫܡܐ ܕܚܩܠܐ ܕܕܘܪܫܐ ܕܬܪܡܝܬܐ",
+	"configure-setting-wgRightsIcon": "ܝܘܩܢܐ ܕܙܕ̈ܩܐ ܕܛܒܥܐ",
+	"configure-setting-wgXhtmlNamespaces-key": "ܚܩܠܐ"
+}

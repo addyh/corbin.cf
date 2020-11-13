@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ләйсән"
+		]
+	},
+	"configure-setting-wgSitename": "Сайт исеме",
+	"configure-setting-wgArticleRobotPolicies-key": "Бит исеме",
+	"configure-setting-wgExtraLanguageNames-value": "Исем",
+	"configure-setting-wgSpecialPageGroups-key": "Төркөм",
+	"configure-setting-wgAutopromote-value": "Шарттар",
+	"configure-setting-wgDebugLogGroups-value": "Файл",
+	"configure-setting-wgRateLimits": "Тиҙлек сикләүҙәре",
+	"configure-setting-wgValidSkinNames-value": "Сағылдырылған исем",
+	"configure-setting-wgNamespaceRobotPolicies-value": "Робот ҡағиҙәләре",
+	"configure-setting-wgUseImageMagick": "ImageMagick ҡулланырға",
+	"configure-setting-wgAllowJavaUploads": "Java архивын тейәргә рөхсәт итергә",
+	"configure-setting-wgXhtmlNamespaces-key": "Исемдәр арауығы"
+}

@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"configure-summary": "Via deze special pagina kan je instellingen maken voor deze wiki. Zie [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Instellingen] voor meer informatie.",
+	"configure-edit-old": "'''Waarschuwing''': je bent een <strong>oude</strong> versie van de instellingen aan het bewerken (de versie per $1).",
+	"configure-no-setup": "Om deze extensie te gebruiken, moet je <code>efConfigureSetup()</code> expliciet aanroepen in het bestand LocalSettings.php.",
+	"configure-no-transwiki": "U mag geen instellingen in andere wiki's wijzigen.",
+	"configure-old-not-available": "De oude versie van de instellingen die je opvroeg ($1) is niet beschikbaar",
+	"configure-image-url-explanation": "Voer de URL voor een afbeelding in, of de naam van een afbeelding in deze wiki (zonder de naamruimte).\nEr wordt een voorvertoning weergegeven als je het veld verlaat.",
+	"configure-select-wiki-desc": "Selecteer de wiki die je wilt instellen.",
+	"configure-select-wiki-view-desc": "Selecteer de wiki waarvoor je de versies van de instellingen wilt bekijken.",
+	"configure-view-not-allowed": "Je hebt geen rechten om deze instellingen te wijzigen"
+}

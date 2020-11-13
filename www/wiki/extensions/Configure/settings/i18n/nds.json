@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joachim Mos"
+		]
+	},
+	"configure-setting-wgActionPaths-key": "Akschoon",
+	"configure-setting-wgExtraLanguageNames-key": "Spraak-Code",
+	"configure-setting-wgExtraLanguageNames-value": "Naam",
+	"configure-setting-wgSpecialPageGroups-key": "Köppel",
+	"configure-setting-wgDebugLogGroups-value": "Datei",
+	"configure-setting-wgValidSkinNames-value": "Naam wiesen"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Iwan Novirion"
+		]
+	},
+	"configure-section-timezone": "Zona wakatu",
+	"configure-section-external-tools": "Pakakeh eksternal"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ильнар"
+		]
+	},
+	"configure-old-changes": "үзгәртүләр",
+	"configure-old-summary": "$2 $4 $3дән $1",
+	"configure-saved": "Көйләнмәләрегез сакланды",
+	"configure-backlink": "Формага кире кайту",
+	"configure-section-robots": "Эзләү роботлары",
+	"configure-section-features": "Мөмкинчелекләр"
+}

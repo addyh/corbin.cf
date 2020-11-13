@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lloffiwr",
+			"Stephenwanjau"
+		]
+	},
+	"configure-desc-group": "Kundi",
+	"configure-desc-ns": "Eneo la wiki",
+	"configure-desc-val": "Thamani",
+	"configure-edit-core": "MediaWiki",
+	"configure-form-reason": "Sababu:",
+	"configure-js-remove": "Futa",
+	"configure-old-changes": "mabadiliko",
+	"configure-section-pages": "Kurasa",
+	"configure-section-email": "Barua pepe",
+	"configure-section-timezone": "Ukanda saa",
+	"configure-section-debug": "Kueua",
+	"configure-section-stats": "Takwimu za tovuti",
+	"configure-section-category": "Jamii",
+	"configure-section-upload": "Pakia",
+	"configure-section-recentchanges": "Mabadiliko ya karibuni",
+	"configure-select-wiki-view-all": "Wiki zote",
+	"configure-throttle-action-edit": "Hariri",
+	"configure-throttle-action-move": "Sogeza",
+	"configure-throttle-action-mailpassword": "Tuma ukumbusho wa nywila",
+	"configure-throttle-action-emailuser": "Tuma barua pepe",
+	"configure-throttle-group": "Aina",
+	"configure-condition-name": "Hali",
+	"configure-condition-description-3": "Anwani ya barua pepe imethibitishwa"
+}

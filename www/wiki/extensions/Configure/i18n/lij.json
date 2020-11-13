@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giromin Cangiaxo"
+		]
+	},
+	"configure": "Configua a wiki",
+	"configure-desc": "O permette a-i utenti aotorizæ de [[Special:Configure|configuâ]] a wiki con un'interfaccia Web-based",
+	"configure-desc-group": "Groppo",
+	"configure-desc-key": "Ciave",
+	"configure-desc-ns": "Namespace",
+	"configure-desc-val": "Valô",
+	"configure-edit-core": "MediaWiki",
+	"configure-edit-ext": "Estenscioin",
+	"configure-viewconfig-default-diff": "Cangi da-e impostaçioin predefinie",
+	"configure-ext-ext-dependencies": "'''Atençion:''' questa estenscion a richiede l'attivaçion {{PLURAL:$2|de l'estenscion indicâ|di estenscioin indicæ}} chì aproeuvo: $1.",
+	"configure-ext-ext-dependency-err": "'''Errô:''' l'estenscion $1 a richiede l'attivaçion de l'estenscion $2.",
+	"configure-ext-doc": "Lezi a documentaçion in linnia"
+}

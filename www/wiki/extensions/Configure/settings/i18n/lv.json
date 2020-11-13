@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"configure-setting-wgMediaHandlers-key": "MIME tips",
+	"configure-setting-wgArticleRobotPolicies-key": "Lapas nosaukums",
+	"configure-setting-wgSpecialPageGroups-key": "Grupa",
+	"configure-setting-wgDebugLogGroups-value": "Fails",
+	"configure-setting-wgRightsIcon": "Autortiesību ikona"
+}

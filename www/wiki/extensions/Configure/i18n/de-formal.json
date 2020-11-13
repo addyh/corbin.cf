@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisiPK",
+			"Geitost",
+			"Imre",
+			"Kghbln",
+			"Umherirrender"
+		]
+	},
+	"configure-summary": "Diese Spezialseite ermöglicht Ihnen die Konfiguration dieses Wikis, weitere Informationen sind in den [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Konfigurationsoptionen] zu finden.",
+	"configure-db-error": "Die Datenbank, die nach Ihren Angaben die Konfiguration ($1) enthalten soll, existiert nicht.\nBitte erstellen Sie sie und führen Sie configure.sql darin aus oder korrigieren sie ihren Namen.",
+	"configure-db-table-error": "Die Datenbank, die Sie angegeben haben, enthält nicht die benötigten Tabellen. Bitte führen Sie configure.sql in dieser Datenbank aus.",
+	"configure-directory-not-writable": "Das Verzeichnis, in dem die Konfigurationen gespeichert werden, <code>$1</code>, ist nicht beschreibbar.\nBitte machen Sie es für PHP beschreibbar, damit Sie diese Erweiterung nutzen können.",
+	"configure-edit-old": "'''Achtung:''' Sie bearbeiten eine <strong>alte</strong> Version der Konfiguration (vom $2, $3 Uhr).",
+	"configure-js-image-error": "Beim Abruf der URL ist ein Fehler aufgetreten. Bitte stellen Sie sicher, dass die Datei existiert.",
+	"configure-no-directory": "Das Verzeichnis zum Speichern der Einstellungen, <code>$1</code>, ist nicht vorhanden.\nBitte erstellen oder ändern Sie es, damit Sie diese Erweiterung nutzen können.",
+	"configure-no-setup": "<code>efConfigureSetup()</code> muss explizit in Ihrer LocalSettings.php aufgerufen werden, um diese Erweiterung nutzen zu können.",
+	"configure-no-transwiki": "Sie haben nicht die erforderliche Berechtigung, um Einstellungen in anderen Wikis ändern zu können.",
+	"configure-old-not-available": "Die alte Version der Einstellungen, die Sie angefragt haben, $1, ist nicht vorhanden",
+	"configure-image-url-explanation": "Geben Sie die URL zu einem Bild oder den Namen eines Bildes auf diesem Wiki (ohne den Namensraum) an. Wenn Sie das Feld verlassen, wird eine Vorschau angezeigt.",
+	"configure-select-wiki-desc": "Wählen Sie das Wiki aus, dessen Einstellungen Sie bearbeiten möchten.",
+	"configure-select-wiki-view-desc": "Wählen Sie ein Wiki, für welches Sie die Konfigurations-Versionen sehen möchten.",
+	"configure-view-not-allowed": "Es ist Ihnen nicht gestattet diese Einstellung einzusehen"
+}
